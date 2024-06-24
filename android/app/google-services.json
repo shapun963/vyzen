@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36109171045",
+    "project_id": "vyzen-9a1b5",
+    "storage_bucket": "vyzen-9a1b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36109171045:android:7fca9803ab0be6cac8498c",
+        "android_client_info": {
+          "package_name": "com.example.vyzen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9hsLtA8HeubYYbHSIBcfnaR_17e9onQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
